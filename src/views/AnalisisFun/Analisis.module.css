@@ -1,0 +1,170 @@
+.contenedorPrincipal{
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 35px;
+}
+
+ /* inicio primer section */
+.one{
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+    /* height: 400px; */
+}
+
+
+.contenedor1{
+    width: 50%;
+    font-size: 56px;
+    font-family: chronicle display;
+    
+    padding-top: 190px;
+    
+}
+.contenedor2{
+    width: 50%;
+    font-size: 28.8px;
+    font-family: Gorgita;
+    padding-top: 270px;
+    padding-bottom: 10px; ;
+}
+/* fin primer section */
+/* inicio segunda section */
+
+.two{
+    display: flex;
+    width: 100%;
+}
+.titulo1{
+    font-family: chronicle display;
+    font-size: 28.8px;
+    padding-bottom: 29px;
+    padding-top: 45px;
+
+}
+.contenedor3{
+    width: 40%;
+}
+.icono{
+    width: 50px;
+}
+.contenedor4{
+    padding-left: 100px;
+}
+
+/* fin segunda section */
+/* inicio primer section */
+.three{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 70px;
+    
+    
+}
+.titulo2{
+    font-size: 28.8px;
+    font-family: Gorgita;
+    padding-bottom: 15px;
+}
+.boton1{
+    font-size: 12px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 56px;
+    padding-right: 56px;
+    border-radius: 18px;
+    margin-left: 45%;
+    cursor: pointer;
+    margin-bottom: 75px;
+    background-color: white;
+
+}
+/* inicio segundo section */
+/* inicio tercer section */
+.four{
+    margin-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+   background: linear-gradient(to right, #ecf3fa 80%, white 20%);
+    
+}
+.contenedor5{
+    width: 60%;
+    margin: 0 auto;
+   
+}
+.titulo3{
+    font-size: 28.8px;
+    font-family: Gorgita;
+    color: #356c74;
+    text-align: center;
+}
+
+.parrafo1{
+    font-size: 28.8px;
+    font-family: chronicle display;
+
+}
+.contenedor6{
+    max-width: 100%;
+    
+}
+.textos{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.textos li{
+    font-size: 14.4px;
+    font-family: Gordita;
+    width: 200px;
+    list-style: none;
+    padding-bottom: 35px;
+}
+.ele{
+    flex: 1 0 auto;
+}
+.contenedor7{
+    width: 80%;
+    margin: 0 auto;
+}
+.parrafo2{
+    font-size: 20px;
+    font-family: chronicle display;
+}
+
+/* inicio cuarta section */
+.five{
+    width:40%;
+    margin:0 auto;
+    
+}
+.titulo4{
+    font-size:28.8px;
+    font-family:Gordita;
+    font-weight: normal;
+    margin-left: 20px;
+}
+.six{
+    display: flex;
+    width: 100%;
+    padding-top: 50px;
+}
+.h3{
+    font-size: 17.6px;
+    font-family: Gordita;
+    font-weight: normal;
+    color: #356c74;
+}
+h3{
+    font-weight: normal; 
+}
+
+.titulo7{
+    font-size: 56px;
+    font-family: chronicle display;
+    text-align: center;
+}
+
+  
